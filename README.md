@@ -10,3 +10,5 @@ Os gráficos apresentados nest post serão utilizados na live de hoje no canal d
 
 Para mais detalhes acessar o [meu blog](https://thiagovalentim.netlify.app/post/bate-papo-sobre-a-covid-19/).
 
+![](https://github.com/ThiagoValentimMarques/live_edmilsoncampos/blob/master/Divulga%C3%A7%C3%A3o.jpeg?raw=true)
+
