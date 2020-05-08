@@ -1,6 +1,6 @@
 # Bate-papo sobre a Covid-19 (Live com o Professor Edmilson Campos)
 
-Os gráficos apresentados nest post serão utilizados na live de hoje no canal do [Instagram](https://www.instagram.com/edmilsoncamposprof/) do Professor Edmilson Campos, Diretor Geral do IFRN Campus Natal - Zona Norte. No bate-papo, serão abordados os seguintes tópicos:
+Os gráficos apresentados nest post foram utilizados na live de hoje no canal do [Instagram](https://www.instagram.com/edmilsoncamposprof/) do Professor Edmilson Campos, Diretor Geral do IFRN Campus Natal - Zona Norte. No bate-papo, foram abordados os seguintes tópicos:
 
 * Características de dados epidemiológicos;
 * Situação do Brasil: casos confirmados e óbitos;
